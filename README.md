@@ -12,3 +12,17 @@
 
 ![image](https://github.com/shiyu-17/Poll_app/assets/107932798/6fcf33c8-b175-447e-98bc-d230388244f5)
 
+要迁移数据库
+python manage.py makemigrations
+python manage.py migrate
+
+使用管理面板，创建超级用户
+python manage.py createsuperuser
+
+创建一些虚拟文本数据：
+pip install faker python manage.py shell import seeder seeder.seed_all(30)
+这里30是条目的数量
+
+运行该程序
+python manage.py runserver
+在浏览器中访问http://127.0.0.1:8000
