@@ -13,8 +13,10 @@
 ![image](https://github.com/shiyu-17/Poll_app/assets/107932798/6fcf33c8-b175-447e-98bc-d230388244f5)
 
 要迁移数据库
-```python manage.py makemigrations
-python manage.py migrate```
+```
+python manage.py makemigrations
+python manage.py migrate
+```
 
 使用管理面板，创建超级用户
 `python manage.py createsuperuser`
