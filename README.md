@@ -8,4 +8,5 @@
 已结束的调查仅向用户显示调查的最终结果
 有一个调查搜索选项
 用户可按名称、发布日期和投票数过滤调查
-![image](https://github.com/shiyu-17/Poll_app/assets/107932798/d0e8ae42-d3cf-4c33-aae8-24134a01cebe)
+
+![image](https://github.com/shiyu-17/Poll_app/assets/107932798/ad887334-4c08-4504-a921-ac99e9ce0381)
