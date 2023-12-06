@@ -9,4 +9,6 @@
 有一个调查搜索选项
 用户可按名称、发布日期和投票数过滤调查
 
-![image](https://github.com/shiyu-17/Poll_app/assets/107932798/ad887334-4c08-4504-a921-ac99e9ce0381)
+
+![image](https://github.com/shiyu-17/Poll_app/assets/107932798/6fcf33c8-b175-447e-98bc-d230388244f5)
+
