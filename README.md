@@ -10,7 +10,8 @@
 用户可按名称、发布日期和投票数过滤调查
 
 
-![image](https://github.com/shiyu-17/Poll_app/assets/107932798/6fcf33c8-b175-447e-98bc-d230388244f5)
+![20231210_021249_048](https://github.com/shiyu-17/Poll_app/assets/107932798/f14ba3dd-5a81-49d8-a177-574d2255eb5d)
+
 
 要迁移数据库
 ```
