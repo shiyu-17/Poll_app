@@ -9,30 +9,7 @@
 6. 有一个调查搜索选项
 7. 用户可按名称、发布日期和投票数过滤调查
 
-
 ![20231210_021249_048](https://github.com/shiyu-17/Poll_app/assets/107932798/f14ba3dd-5a81-49d8-a177-574d2255eb5d)
-
-
-![Alt text](static/img/image.png)
-
-![Alt text](static/img/image-1.png)
-
-![Alt text](static/img/image-2.png)
-
-![Alt text](static/img/image-3.png)
-
-![Alt text](static/img/image-4.png)
-
-![Alt text](static/img/image-5.png)
-
-![Alt text](static/img/image-6.png)
-![Alt text](static/img/image-7.png)
-
-![Alt text](static/img/image-8.png)
-
-![Alt text](static/img/image-9.png)
-
-
 
 要迁移数据库
 ```
